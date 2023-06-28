@@ -1,3 +1,3 @@
-module github.com/jsonhcs/test
+module github.com/jasonhcs/test
 
-go 1.20
+go 1.19
